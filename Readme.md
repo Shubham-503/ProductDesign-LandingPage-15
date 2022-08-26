@@ -1,4 +1,3 @@
-
 # Project Name: Product Design Landing Page
 
 ## Project Description
@@ -8,8 +7,9 @@
 > Beautiful UI
 
 ## Technologies Used
- - HTML 
- - CSS with media queries
+
+- HTML
+- CSS with media queries
 
 ## My Learning
 
@@ -18,10 +18,10 @@
 
 <br>
 
-#### It took around 7 hr to build 
- - livelink()
+#### It took around 7 hr to build
 
-# 
+- # [Live Link](https://productdesign-landingpage-15.netlify.app/)
+
 ![Screenshots](/images/thumbnail.PNG)
 ![Screenshots](/images/thumbnail2.PNG)
 ![Screenshots](/images/thumbnail3.PNG)
