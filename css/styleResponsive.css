@@ -1,0 +1,92 @@
+
+
+@media (max-width:768px){
+
+    .banner{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .section1{
+        flex-wrap: wrap;
+        align-items: center;
+        position: static;
+    }
+
+    .section1-card{
+        width:400px;
+
+    }
+
+    .section2{
+        flex-wrap: wrap;
+    }
+    .section2-left{
+        width: 40%;
+    }
+    .section2-right{
+        flex-wrap: wrap;
+        justify-content: center;
+
+    }
+    .section3-title{
+        flex-direction: column;
+    }
+    .section3-title-left{
+        text-align: center;
+    }
+    .banner-cta{
+        padding:10px 20px;
+    }
+    .section3-title-right{
+        position: relative;
+        top: 20px;
+    }
+    .section3-card{
+        width: 70%;
+    }
+    .section3-img{
+        padding: 20px 10px;
+    }
+
+    .section4{
+        flex-direction: column;
+        text-align: center;
+        padding: 20px 40px;
+
+    }
+    .section4-left{
+        width: auto;
+    }
+    .footer-bottom{
+        flex-direction: column;
+        align-items: center;
+        
+    }
+
+   
+}
+
+@media (max-width:425px){
+  
+
+    .container{
+       
+        margin: 0 auto;
+    }
+    .section2{
+        margin:0 auto;
+    }
+    .section2-right{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .list{
+        display: none;
+    }
+   
+    .section3-card-top{
+        background-color: #181818;
+        padding: 0px  10px;
+    }
+}
